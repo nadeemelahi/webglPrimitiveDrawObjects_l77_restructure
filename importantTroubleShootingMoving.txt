@@ -1,0 +1,7 @@
+
+Checking lines match
+-had typo on script src filename
+$echo filename.js >> index.html
+dd filename\n
+paste below exising
+-perfect exact copy below it for comparison
